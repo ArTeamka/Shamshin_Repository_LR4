@@ -18,7 +18,7 @@ void PrintASCII() {
 
 }
 void SumASCII() {
-    
+
 }
 
 struct MenuItem {
